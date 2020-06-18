@@ -1,13 +1,11 @@
-This a server side application or an Express Application which provides
+This is CAB230 Assignmnet 2 - Server Side
 
-To install, install download the zip file, unzip the file. 
+To install/to run the project follow the steps below:
 
-Then in the knexfile.js you will find this in the database_files folder. Open that and edit the password, and address for where the sql server is running and any other information which can be seen to update.
+Step 1: Download/Clone the assign.zip folder and unzip it.
 
-Then you will need to create a certificate so  you're able to install the applicaiton and you will be able to create a selfsigned certificate so you can run your application on https and which more secure. Then you will go to the bin folder and open the www file there you will update path to the certificates and private/public keys.
+Step 2: Then open the assign.zip folder in commandline, and you need to type the following command: npm install to install all the packages requried for this project.
 
-After that you will need use a terminal or commanline interface and go to the porject foler. Then you will need to install all the dependencies, packages, modules etc. Type npm install to install all the dependencies. 
+Step 3: Then to run the project in the commandline you need to type the following command: npm start
 
-Then you will need to type npm start to start the applicaiton. 
-
-Or if you want to deploy it on the vm you will need to have installed all the apropaiate 
+Step 4: If you have you're using windows OS you will need to type https://localhost:443 in any browser to view the results in in that specific web browser.  
